@@ -1,6 +1,7 @@
 package com.erengunduzvar.utils;
 
 public class PermaLink {
-    //github
-    
+    //github: https://github.com/erengunduzvar/PatikaSpringFramework
+
+
 }
