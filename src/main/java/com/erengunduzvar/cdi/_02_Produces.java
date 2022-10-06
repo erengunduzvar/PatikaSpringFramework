@@ -5,12 +5,9 @@ import javax.enterprise.inject.Produces;
 import javax.inject.Named;
 import java.util.ArrayList;
 import java.util.List;
-
+@Named(value = "producetuto")
+@ApplicationScoped
 public class _02_Produces {
-
-    @Named(value = "producetuto")
-    @ApplicationScoped
-
 
     @Produces
     public List<String> getList(){
