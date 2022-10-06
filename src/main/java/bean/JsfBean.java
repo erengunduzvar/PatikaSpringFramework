@@ -1,4 +1,4 @@
-package com.erengunduzvar.bean;
+package bean;
 
 import lombok.Getter;
 import lombok.Setter;

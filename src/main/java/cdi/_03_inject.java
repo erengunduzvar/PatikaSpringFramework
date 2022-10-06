@@ -1,4 +1,4 @@
-package com.erengunduzvar.cdi;
+package cdi;
 
 
 import javax.enterprise.context.ApplicationScoped;
