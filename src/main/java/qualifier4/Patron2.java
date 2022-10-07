@@ -1,8 +1,8 @@
-package qualifier;
+package qualifier4;
 
 
 
-@QualifierMultiple
+@QualifierMultiple2(FazlaSecenekler.BIRINCI)
 public class Patron2 implements PatronInterface {
 
     @Override

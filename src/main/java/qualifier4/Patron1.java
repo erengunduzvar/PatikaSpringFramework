@@ -1,4 +1,4 @@
-package qualifier;
+package qualifier4;
 
 
 import javax.enterprise.inject.Default;
