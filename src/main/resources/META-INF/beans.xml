@@ -9,4 +9,9 @@
         <class>alternative.Patron1</class>
 <!--        <class>alternative.Patron2</class>-->
     </alternatives>
+
+    <interceptors>
+        <class>aop.interceptor.InterceptorYolKesiciAsilIs</class>
+    </interceptors>
+
 </beans>
